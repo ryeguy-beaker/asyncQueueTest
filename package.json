@@ -1,0 +1,23 @@
+{
+  "name": "asyncqueuetest",
+  "version": "1.0.0",
+  "description": "Playing around with async queue functionality",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryeguy-beaker/asyncQueueTest.git"
+  },
+  "author": "Ryan Gagnon",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ryeguy-beaker/asyncQueueTest/issues"
+  },
+  "homepage": "https://github.com/ryeguy-beaker/asyncQueueTest#readme",
+  "dependencies": {
+    "async": "^2.1.5",
+    "express": "^4.15.2"
+  }
+}
